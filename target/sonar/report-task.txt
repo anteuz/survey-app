@@ -1,0 +1,6 @@
+projectKey=com.darkchitect.springboot:first-springboot-app
+serverUrl=http://sonarqube-sonarqube65.192.168.64.3.nip.io
+serverVersion=6.6.0.32724
+dashboardUrl=http://sonarqube-sonarqube65.192.168.64.3.nip.io/dashboard/index/com.darkchitect.springboot:first-springboot-app
+ceTaskId=AV9DeoExcQXkXdgg-idl
+ceTaskUrl=http://sonarqube-sonarqube65.192.168.64.3.nip.io/api/ce/task?id=AV9DeoExcQXkXdgg-idl
